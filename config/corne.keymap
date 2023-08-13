@@ -67,8 +67,8 @@
 //                     |     | Alt | SPC |   | ENT | BASE |     |
                         label = "Gamez";
                         bindings = <
-   &kp ESC   &kp TAB &kp Q &kp W &kp E &kp R   &kp 1     &kp 2     &kp 3   &kp 4    &kp 5    &trans 
-   &kp LSHFT &kp M   &kp A &kp S &kp D &kp F   &kp 6     &kp 7     &kp 8   &kp 9    &kp 0    &trans 
+   &kp ESC   &kp TAB &kp Q &kp W &kp E &kp R   &kp N1    &kp N2    &kp N3  &kp N4   &kp N5   &trans 
+   &kp LSHFT &kp M   &kp A &kp S &kp D &kp F   &kp N6    &kp N7    &kp N8  &kp N9   &kp N0   &trans 
    &kp LCTRL &kp I   &kp Z &kp X &kp C &kp V   &kp UNDER &kp COMMA &kp DOT &kp SEMI &kp FSLH &trans
                    &trans &kp LALT &kp SPACE   &kp RET   &tog 3  &trans 
                         >;
